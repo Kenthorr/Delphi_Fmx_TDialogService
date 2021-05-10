@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.516,C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit1.fmx=C:\Users\Kenthor\Desktop\Programme Delphi\RetD\TDialogService multi-plateform\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.516,C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\Kenthor\Desktop\Programme Delphi\RetD\TDialogService multi-plateform\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.950,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.120,C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\Kenthor\Desktop\Programme Delphi\RetD\TDialogService multi-plateform\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMacOSx10.15.6 iOSSimulator="iPhone5"/>
+		<NoProfile Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
